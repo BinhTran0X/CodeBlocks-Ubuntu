@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1558499378 source:/home/binhtran1832/Codeblocks/bkcselab/#ID:169/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstring>
+	<iomanip>
+	<math.h>
+	<cctype>
+

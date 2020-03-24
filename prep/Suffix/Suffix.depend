@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1580407642 source:/home/binhtran1832/Codeblocks/prep/Suffix/main.cpp
+	<bits/stdc++.h>
+	"SuffixArray.h"
+	"SuffixTree.h"
+
+1580407420 /home/binhtran1832/Codeblocks/prep/Suffix/SuffixArray.h
+	<bits/stdc++.h>
+
+1580409316 /home/binhtran1832/Codeblocks/prep/Suffix/SuffixTree.h
+	<bits/stdc++.h>
+

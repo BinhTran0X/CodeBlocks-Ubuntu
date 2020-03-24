@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1560733734 source:/home/binhtran1832/Codeblocks/assignment3b/core.cpp
+	"core.h"
+
+1558070599 /home/binhtran1832/Codeblocks/assignment3b/core.h
+	"musketeer.h"
+
+1560677508 /home/binhtran1832/Codeblocks/assignment3b/musketeer.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string.h>
+	<math.h>
+
+1558071110 source:/home/binhtran1832/Codeblocks/assignment3b/main.cpp
+	"core.h"
+
+1560679639 source:/home/binhtran1832/Codeblocks/assignment3b/musketeer.cpp
+	"musketeer.h"
+

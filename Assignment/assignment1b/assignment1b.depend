@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1554910713 source:/home/binhtran1832/Codeblocks/assignment1b/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<math.h>
+

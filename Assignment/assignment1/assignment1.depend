@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1551369957 source:/home/binhtran1832/Codeblocks/assignment1/core.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+
+1551370061 source:/home/binhtran1832/Codeblocks/assignment1/framecode.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"core.h"
+
+1551369912 /home/binhtran1832/Codeblocks/assignment1/core.h
+
+1551369611 source:/home/binhtran1832/Codeblocks/assignment1/main.cpp
+	<iostream>
+	<stdio.h>
+	<iomanip>
+	"core.h"
+

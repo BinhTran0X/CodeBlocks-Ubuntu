@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1576592428 source:/home/binhtran1832/Codeblocks/BTL1/BTL1/main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	<cstring>
+	<sstream>
+	<math.h>
+	"dsaLib.h"
+	"dbLib.h"
+	"processData.h"
+
+1576592221 /home/binhtran1832/Codeblocks/BTL1/BTL1/dsaLib.h
+	<string>
+	<stdio.h>
+	<string.h>
+	<iostream>
+
+1576592145 /home/binhtran1832/Codeblocks/BTL1/BTL1/dbLib.h
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	<cstring>
+	<sstream>
+	<math.h>
+	<vector>
+	"dsaLib.h"
+
+1576592246 /home/binhtran1832/Codeblocks/BTL1/BTL1/processData.h
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<string>
+	<cstring>
+	<sstream>
+	<fstream>
+	<cassert>
+
+1576592191 source:/home/binhtran1832/Codeblocks/BTL1/BTL1/processData.cpp
+	"processData.h"
+	"dbLib.h"
+	"dsaLib.h"
+	<vector>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1553401378 source:/home/binhtran1832/Codeblocks/bkcselab/#ID:58_pascal/main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<cstdio>
+	<cstdlib>
+	<fstream>
+
